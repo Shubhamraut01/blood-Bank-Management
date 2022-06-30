@@ -12,10 +12,12 @@ The Blood Donation Agent is to create an e-Information about the donor and organ
 
 Home screen<br><br>
 
- ![image](https://user-images.githubusercontent.com/98621723/176598171-7f4ca3b1-35f1-4c24-b9c1-9d5e267cbbfe.png)
+ ![image](https://user-images.githubusercontent.com/98621723/176598151-cf868de3-b44c-4533-a957-13d6303f1fdd.png)
 
 About us<br><br>
- ![image](https://user-images.githubusercontent.com/98621723/176598151-cf868de3-b44c-4533-a957-13d6303f1fdd.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/98621723/176598171-7f4ca3b1-35f1-4c24-b9c1-9d5e267cbbfe.png)
 
 Our members output page<br><br>
  
